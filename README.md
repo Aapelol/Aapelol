@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aapeli.moller@hotmail.fi
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like to make sushi
 
 <!---
